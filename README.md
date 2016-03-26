@@ -5,5 +5,7 @@ Just some test fortran files
 Requires: gfortran
 Ubuntu: apt-get install gfortran
 
-Command:
-gfortran -ff2c <files>
+To compile:
+```sh
+$ gfortran -ff2c <files>
+```
